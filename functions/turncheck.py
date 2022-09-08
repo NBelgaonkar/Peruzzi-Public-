@@ -1,5 +1,6 @@
 import datetime
 
+
 class checktime:
   def turncheck():
     current_time= datetime.datetime.now()
@@ -8,6 +9,5 @@ class checktime:
       return ("Failuire: TurnChange")
     else:
       return("Success")
-    
-  
-    
+      
+      

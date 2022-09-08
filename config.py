@@ -1,5 +1,9 @@
-DUsername: str = "Username1"
-DPassword: str ="Password1"
+DUsername: str = "replace with your key"
+DPassword: str ="replace with your key"
 prefix: str = 'cdp-'
-apikey: str ="apikey"
-botkey: str  ="botkey"
+apikey: str ="replace with your key"
+botkey: str  ="replace with your key"
+sqlhost: str ="replace with your key"
+sqldatabase: str= "replace with your key"
+sqlpassword: str="replace with your key"
+discordbotkey: str="replace with your key"
